@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MockMate",
+    "desc": "An AI-powered mock interview simulator with customizable interview scenarios, real-time feedback, and detailed performance analytics.",
+    "image": "mockmate.png",
+    "category": "ai",
+    "links": {
+      "view": "https://mockmate-ai-raj510.vercel.app/",
+      "code": "https://github.com/bhuvneshsahu0709/MockMate-AI"
+    }
+  },
+  {
+    "name": "ShoeKart",
+    "desc": "An e-commerce platform for buying shoes, built on the MERN stack with a user-friendly shopping interface and an admin panel for managing products, orders, and users.",
+    "image": "shoekart.png",
+    "category": "mern",
+    "links": {
+      "view": "https://shoekart197.vercel.app/",
+      "code": "https://github.com/bhuvneshsahu0709/Shoekart-E-commerce"
+    }
+  },
+  {
+    "name": "Pathfinding Visualizer",
+    "desc": "An interactive visualizer for understanding pathfinding algorithms like Dijkstra, BFS, and DFS. Users can set start/end points, create walls, and see how each algorithm explores the grid step by step.",
+    "image": "pathvisualizer.png",
+    "category": "dsa",
+    "links": {
+      "view": "https://avdhesh11.github.io/pathfinding-visualizer/",
+      "code": "https://github.com/bhuvneshsahu0709/Pathfinding-Visualizer-DSA"
+    }
+  }
+]
